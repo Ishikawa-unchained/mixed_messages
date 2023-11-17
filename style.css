@@ -1,0 +1,31 @@
+body {
+    background-color: #022333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+button {
+    background-color: #ddb654;
+    border: 1px solid #000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    position: relative;
+    transform: translateY(-50%);
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+div {
+    background-color: white;
+    position: absolute;
+    border: 1px solid #000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
